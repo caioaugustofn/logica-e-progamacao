@@ -1,0 +1,27 @@
+{
+  "name": "logica-e-progamacao",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caioaugustofn/logica-e-progamacao.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caioaugustofn/logica-e-progamacao/issues"
+  },
+  "homepage": "https://github.com/caioaugustofn/logica-e-progamacao#readme",
+  "description": "",
+  "dependencies": {
+    "chai": "^6.0.1",
+    "mocha": "^11.7.2"
+  }
+}
